@@ -1,5 +1,0 @@
-url	md5	Data collection	Data type	Analysis group	Sample	Population	Data reuse policy
-ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR099/SRR099957/SRR099957_1.fastq.gz	7f3f4dc7f0aef677d8e9609dd5d52334	1000 Genomes on GRCh38	sequence	Exome	HG00145	British in England and Scotland	http://www.1000genomes.org/about#g1k_data_reuse
-ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR190/SRR190845/SRR190845_2.fastq.gz	df76df6187cb00b071f75ce792e40f24	1000 Genomes on GRCh38	sequence	Low coverage WGS	HG00145	British in England and Scotland	http://www.1000genomes.org/about#g1k_data_reuse
-ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR099/SRR099957/SRR099957_2.fastq.gz	a4e961d30a983b29d529e424a1000ca7	1000 Genomes on GRCh38	sequence	Exome	HG00145	British in England and Scotland	http://www.1000genomes.org/about#g1k_data_reuse
-ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR190/SRR190845/SRR190845_1.fastq.gz	710d9f8108b1a5b3ca668b200dd419f6	1000 Genomes on GRCh38	sequence	Low coverage WGS	HG00145	British in England and Scotland	http://www.1000genomes.org/about#g1k_data_reuse
