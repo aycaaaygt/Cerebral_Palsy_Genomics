@@ -5,3 +5,4 @@ The patient data used cannot be shared due to the Personal Data Protection Autho
 
 
 The variant filtering and prioritization criteria we use in our analysis are available in the workflow chart.
+![image](https://github.com/aycaaaygt/Cerebral_Palsy_Genomics/assets/147816669/9fd6ff41-6355-45e7-bcef-e0bf3bd1fd3d)
