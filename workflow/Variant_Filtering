@@ -1,0 +1,18 @@
+For the variant filtering and prioritization process, we used some cut off for focused on rare variants, and
+For Population Allele frequency, selected variants less than:
+Homozygous : 5x10-3
+Heterozygous :  5x10-5
+Compound heterozygous : 5x10-3
+
+Also, beginning of the analysis, coding region variants were examined as it has a higher potential to be causal.
+Missense
+Complex Substitution
+Frameshift and Non-frameshift
+Splice Site  
+Stop gain
+Stop lost
+Start lost
+...
+
+We didn't use a selection method for in-silico predictors via eliminating variants, like CADD > 15 etc.
+because to minimize the chance of missing candidate variants. 
